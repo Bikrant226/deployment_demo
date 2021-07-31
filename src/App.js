@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        My first deployment with netlify
+        I am Bikrant Thakur
       </header>
     </div>
   );
